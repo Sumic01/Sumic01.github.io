@@ -1,0 +1,11 @@
+{
+  "dependencies": {
+    "@tabler/icons-react": "^2.47.0",
+    "bootstrap": "^5.3.3",
+    "clsx": "^2.1.0",
+    "framer-motion": "^11.0.6",
+    "react-bootstrap": "^2.10.1",
+    "react-element-to-jsx-string": "^15.0.0",
+    "tailwind-merge": "^2.2.1"
+  }
+}
